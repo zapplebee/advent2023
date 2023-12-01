@@ -1,1 +1,2 @@
 link: https://adventofcode.com/2023/day/1
+hints: it seems that numbers that overlap are fine for instance "fiveight" should count as five and eight
